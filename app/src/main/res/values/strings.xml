@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="text1">Input the number that you would like to convert, select the types and click on check it</string>
+    <string name="result">The result for your input is:</string>
+
+    <string name="weight_tittle">Длина</string>
+    <string name="volume_tittle">Объем</string>
+    <string name="length_tittle">Вес</string>
+    <string name="area_tittle">Время</string>
+    <string name="time_tittle">Площадь</string>
+
+
+
+
+
+
+    <string-array name="lenghtdd">
+        <item>Км</item>
+        <item>Метры</item>
+        <item>Мили</item>
+        <item>Ярды</item>
+        <item>Футы</item>
+        <item>Дюймы</item>
+        <item>Сантиметры</item>
+    </string-array>
+
+    <string-array name="volumedd">
+        <item>Литры</item>
+        <item>Гектолитры</item>
+        <item>Пинты</item>
+        <item>Галлон</item>
+        <item>Жидкая унция</item>
+        <item>Кварт</item>
+    </string-array>
+
+    <string-array name="weightdd">
+        <item>Кг</item>
+        <item>гр</item>
+        <item>Фунт</item>
+        <item>Унция</item>
+    </string-array>
+
+
+    <string-array name="timedd">
+        <item>Секунда</item>
+        <item>Минута</item>
+        <item>Час</item>
+        <item>День</item>
+        <item>Неделя</item>
+        <item>Месяц</item>
+        <item>Год</item>
+    </string-array>
+
+    <string-array name="areadd">
+        <item>Квадратный фут</item>
+        <item>Квадратный метр</item>
+        <item>Квадратный километр</item>
+        <item>Квадратный миля</item>
+        <item>Гектра</item>
+        <item>Акр</item>
+    </string-array>
+</resources>
